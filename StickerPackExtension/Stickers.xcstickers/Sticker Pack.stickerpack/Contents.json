@@ -1,0 +1,128 @@
+{
+  "stickers" : [
+    {
+      "filename" : "parrot.sticker"
+    },
+    {
+      "filename" : "middleparrot.sticker"
+    },
+    {
+      "filename" : "rightparrot.sticker"
+    },
+    {
+      "filename" : "aussieparrot.sticker"
+    },
+    {
+      "filename" : "gothparrot.sticker"
+    },
+    {
+      "filename" : "oldtimeyparrot.sticker"
+    },
+    {
+      "filename" : "boredparrot.sticker"
+    },
+    {
+      "filename" : "shuffleparrot.sticker"
+    },
+    {
+      "filename" : "shufflefurtherparrot.sticker"
+    },
+    {
+      "filename" : "congaparrot.sticker"
+    },
+    {
+      "filename" : "reversecongaparrot.sticker"
+    },
+    {
+      "filename" : "partyparrot.sticker"
+    },
+    {
+      "filename" : "sadparrot.sticker"
+    },
+    {
+      "filename" : "parrotcop.sticker"
+    },
+    {
+      "filename" : "fastparrot.sticker"
+    },
+    {
+      "filename" : "slowparrot.sticker"
+    },
+    {
+      "filename" : "parrotdad.sticker"
+    },
+    {
+      "filename" : "dealwithitparrot.sticker"
+    },
+    {
+      "filename" : "fiestaparrot.sticker"
+    },
+    {
+      "filename" : "pizzaparrot.sticker"
+    },
+    {
+      "filename" : "hamburgerparrot.sticker"
+    },
+    {
+      "filename" : "chillparrot.sticker"
+    },
+    {
+      "filename" : "explodyparrot.sticker"
+    },
+    {
+      "filename" : "shufflepartyparrot.sticker"
+    },
+    {
+      "filename" : "ice-cream-parrot.sticker"
+    },
+    {
+      "filename" : "sassyparrot.sticker"
+    },
+    {
+      "filename" : "confusedparrot.sticker"
+    },
+    {
+      "filename" : "aussiecongaparrot.sticker"
+    },
+    {
+      "filename" : "aussiereversecongaparrot.sticker"
+    },
+    {
+      "filename" : "parrotwave1.sticker"
+    },
+    {
+      "filename" : "parrotwave2.sticker"
+    },
+    {
+      "filename" : "parrotwave3.sticker"
+    },
+    {
+      "filename" : "parrotwave4.sticker"
+    },
+    {
+      "filename" : "parrotwave5.sticker"
+    },
+    {
+      "filename" : "parrotwave6.sticker"
+    },
+    {
+      "filename" : "parrotwave7.sticker"
+    },
+    {
+      "filename" : "congapartyparrot.sticker"
+    },
+    {
+      "filename" : "moonwalkingparrot.sticker"
+    },
+    {
+      "filename" : "sirocco.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
