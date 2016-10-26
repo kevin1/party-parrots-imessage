@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "conga party parrot",
     "filename" : "congapartyparrot.png"
   }
 }

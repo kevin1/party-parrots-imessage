@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "ice cream parrot",
     "filename" : "ice-cream-parrot.png"
   }
 }

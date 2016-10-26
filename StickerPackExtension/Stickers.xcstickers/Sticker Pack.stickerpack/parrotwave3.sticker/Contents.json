@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "parrot wave part 3",
     "filename" : "parrotwave3.png"
   }
 }

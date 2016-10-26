@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "shuffle further parrot",
     "filename" : "shufflefurtherparrot.png"
   }
 }

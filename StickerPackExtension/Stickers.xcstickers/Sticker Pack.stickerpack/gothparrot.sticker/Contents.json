@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "goth parrot",
     "filename" : "gothparrot.png"
   }
 }
