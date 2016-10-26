@@ -106,12 +106,12 @@
 				TargetAttributes = {
 					0A4811811DBF0F07002C4EFB = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 8387RYP32Q;
+						DevelopmentTeam = SG7VZ8953Q;
 						ProvisioningStyle = Automatic;
 					};
 					0A4811851DBF0F07002C4EFB = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 8387RYP32Q;
+						DevelopmentTeam = SG7VZ8953Q;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -256,9 +256,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = 8387RYP32Q;
+				DEVELOPMENT_TEAM = SG7VZ8953Q;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.kevinchen.parrots.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kevinchen.partyparrots.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -268,9 +268,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = 8387RYP32Q;
+				DEVELOPMENT_TEAM = SG7VZ8953Q;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.kevinchen.parrots.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kevinchen.partyparrots.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -280,9 +280,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = 8387RYP32Q;
+				DEVELOPMENT_TEAM = SG7VZ8953Q;
 				INFOPLIST_FILE = "Party Parrots/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kevinchen.parrots;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kevinchen.partyparrots;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -292,9 +292,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = 8387RYP32Q;
+				DEVELOPMENT_TEAM = SG7VZ8953Q;
 				INFOPLIST_FILE = "Party Parrots/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kevinchen.parrots;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kevinchen.partyparrots;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
